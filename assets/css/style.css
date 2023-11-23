@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+}
+
+h4{
+    font-weight: 500;
+}
+
+h5{
+    color: #212529;
+    font-weight: 300;
+}
+
+h6,
+p {
+   color: #707070; 
+   font-weight: 300;
+}
+
+.cuppon {
+    width: 150px;
+}
+
+.col{
+    margin-top: 2rem;
+}
+
+.list-group-item{
+    color: #707070;
+    font-weight: 300;
+    text-align: end;
+}
+
+.destacado{
+    color: #28A745;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.formulario {
+    padding: 1.5rem;
+}
+
+mb-3{
+    font-weight: 300;
+}
+.boton{
+    font-weight: 500;
+}
+
+footer {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+}
